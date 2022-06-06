@@ -3,6 +3,7 @@
 # Funcionais:
 
 ## Casos de uso:
+![caso de uso](https://user-images.githubusercontent.com/56142288/172265180-89eae24a-5cd4-4d05-b7fa-3af50de5999f.jpg)
 
 ## Funcionais:
 
