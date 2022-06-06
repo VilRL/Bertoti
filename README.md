@@ -14,7 +14,7 @@
 
 # Projeto de Diagrama:
 
-![Diagrama](https://user-images.githubusercontent.com/56142288/172261760-d7a893e3-3190-474f-8488-8592425e245e.jpg)
+![Diagrama](https://user-images.githubusercontent.com/56142288/172262974-ff0ed06a-bdb8-44d3-8307-da1a4465b4ac.jpg)
 
 # Desenvolvimento:
 
