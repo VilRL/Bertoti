@@ -1,7 +1,21 @@
 # Exercicios de Engenharia de Software (Ciclo de Vida)
 
-# Requisitos Funcionais:
+# Funcionais:
 
-#1 Casos de uso:
+## Casos de uso:
 
-#1 Story Card
+## Funcionais:
+
+## Story Card:
+
+# Não Funcionais:
+
+# Projeto de Diagrama:
+
+# Desenvolvimento:
+
+## Plataforma/Main
+
+## Plataforma/Pessoa
+
+## Plataforma/Disciplina
