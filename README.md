@@ -19,7 +19,9 @@
 # Desenvolvimento:
 
 ## Plataforma/Main
-
+![plataforma main](https://user-images.githubusercontent.com/56142288/172264309-b402b3c5-882f-4fbb-8f40-8202cbea6e6b.jpg)
 ## Plataforma/Pessoa
-
+![plataforma pessoa](https://user-images.githubusercontent.com/56142288/172264313-44d8a7f6-057d-4ef1-9389-287b27ec5d97.jpg)
 ## Plataforma/Disciplina
+![plataforma disciplina](https://user-images.githubusercontent.com/56142288/172264303-0d8053b3-4980-4b1b-b685-38548abc1e02.jpg)
+
