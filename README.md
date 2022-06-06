@@ -1,6 +1,6 @@
 # Exercicios de Engenharia de Software 
 
-#(Ciclo de Vida)
+# Ciclo de Vida 
 
 # Funcionais:
 
