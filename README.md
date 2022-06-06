@@ -19,7 +19,7 @@
 # Desenvolvimento:
 
 ## Plataforma/Main
-![plataforma main](https://user-images.githubusercontent.com/56142288/172264309-b402b3c5-882f-4fbb-8f40-8202cbea6e6b.jpg)
+![plataforma main](https://user-images.githubusercontent.com/56142288/172264417-bb36c592-ab61-456a-9866-49e449c03274.jpg)
 ## Plataforma/Pessoa
 ![plataforma pessoa](https://user-images.githubusercontent.com/56142288/172264313-44d8a7f6-057d-4ef1-9389-287b27ec5d97.jpg)
 ## Plataforma/Disciplina
